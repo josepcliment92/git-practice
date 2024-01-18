@@ -1,4 +1,1 @@
-Name: Josep
-Age: 31
-Favorite Color: Blue
-Favorite Meal: Pizza
+
